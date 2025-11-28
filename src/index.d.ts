@@ -48,3 +48,18 @@ declare const game: {
   modules: Collection<string, Module>,
   user: User
 }
+
+interface RollTableResult {
+  type?: string
+  img?: string
+  name?: string
+  description?: string
+}
+
+interface RollTableOptions {
+  displayChat?: boolean
+  recursive?: boolean
+  results?: any
+  roll?: any
+  rollMode?: string
+}
