@@ -1,4 +1,4 @@
-import { adjectives, clean, vulgar } from '../ids'
+import { cadj, vadj, cn, vn } from '../ids'
 import rollTable from './roll-table'
 import generateInsult from './insult'
 
@@ -10,10 +10,11 @@ describe('generateInsult', () => {
     mockRollTable.mockClear()
     mockRollTable.mockImplementation(async (id: string) => {
       switch (id) {
-        case adjectives: return { name: 'scurvy' }
-        case clean: return { name: 'landlubber' }
-        case vulgar: return { name: 'bastard' }
-        default: return { name: 'nope' }
+        case cadj: return { description: 'scurvy' }
+        case vadj: return { description: 'syphilitic' }
+        case cn: return { description: 'landlubber' }
+        case vn: return { description: 'bastard' }
+        default: return { description: 'nope' }
       }
     })
   })
@@ -21,8 +22,8 @@ describe('generateInsult', () => {
   it.each([
     ['clean', undefined, 'scurvy landlubber'],
     ['clean', 'PG13', 'scurvy landlubber'],
-    ['vulgar', 'R', 'scurvy bastard']
-  ] as [string, string | undefined, string][])('rolls on the %s table when rating is %s', async (_desc, rating, expected) => {
+    ['vulgar', 'R', 'syphilitic bastard']
+  ] as [string, string | undefined, string][])('rolls on the %s tables when rating is %s', async (_desc, rating, expected) => {
     expect(await generateInsult(rating)).toBe(expected)
   })
 })
