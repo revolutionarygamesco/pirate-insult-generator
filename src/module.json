@@ -1,7 +1,7 @@
 {
   "id": "revolutionary-pirateinsults",
   "title": "Pirate Insult Generator",
-  "description": "A for generating random piratical insults.",
+  "description": "A Foundry VTT module for generating random piratical insults.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
