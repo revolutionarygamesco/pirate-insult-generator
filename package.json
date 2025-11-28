@@ -1,7 +1,7 @@
 {
-  "name": "@revolutionarygamesco/fvttmod-starter",
-  "description": "A starting point for Foundry VTT modules.",
-  "version": "0.0.0",
+  "name": "@revolutionarygamesco/pirate-insult-generator",
+  "description": "A Foundry VTT module for generating piratical insults.",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && vite build",

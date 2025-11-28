@@ -1,7 +1,7 @@
 {
-  "id": "revolutionary-starter",
-  "title": "Foundry VTT Module Starter",
-  "description": "",
+  "id": "revolutionary-pirateinsults",
+  "title": "Pirate Insult Generator",
+  "description": "A for generating random piratical insults.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": "13",
@@ -17,15 +17,36 @@
   "esmodules": [
     "scripts/module.js"
   ],
-  "styles": [
-    "styles/module.css"
+  "packs": [
+    {
+      "name": "tables",
+      "label": "Pirate Insult Generator Roll Tables",
+      "path": "packs/rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Pirate Insult Generator Macros",
+      "path": "packs/macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
   ],
-  "packs": [],
   "packFolders": [
     {
-      "name": "Foundry VTT Module Starter",
+      "name": "Pirate Insult Generator",
       "sorting": "a",
-      "packs": []
+      "packs": [
+        "tables",
+        "macros"
+      ]
     }
   ],
   "languages": [
@@ -41,10 +62,10 @@
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
-  "bugs": "https://github.com/revolutionarygamesco/fvtt-starter/issues",
-  "changelog": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/CHANGELOG.md",
-  "license": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/LICENSE",
-  "readme": "https://github.com/revolutionarygamesco/fvtt-starter/blob/main/README.md",
+  "bugs": "https://github.com/revolutionarygamesco/pirate-insult-generator/issues",
+  "changelog": "https://github.com/revolutionarygamesco/pirate-insult-generator/blob/main/CHANGELOG.md",
+  "license": "https://github.com/revolutionarygamesco/pirate-insult-generator/blob/main/LICENSE",
+  "readme": "https://github.com/revolutionarygamesco/pirate-insult-generator/blob/main/README.md",
   "funding": [
     {
       "type": "patreon",
