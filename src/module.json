@@ -24,8 +24,7 @@
       "path": "packs/rolltables",
       "type": "RollTable",
       "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
+        "PLAYER": "OWNER"
       }
     },
     {
@@ -34,8 +33,7 @@
       "path": "packs/macros",
       "type": "Macro",
       "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
+        "PLAYER": "OWNER"
       }
     }
   ],
@@ -50,7 +48,6 @@
     }
   ],
   "relationships": {},
-  "includes": [],
   "socket": false,
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
@@ -58,11 +55,5 @@
   "bugs": "#{BUGS}#",
   "changelog": "#{CHANGELOG}#",
   "license": "#{LICENSE}#",
-  "readme": "#{README}#",
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/revolutionarygamesco"
-    }
-  ]
+  "readme": "#{README}#"
 }
