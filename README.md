@@ -1,9 +1,9 @@
 # Pirate Insult Generator
 
-![Latest Release](https://img.shields.io/github/v/release/revolutionarygamesco/fvttmod-starter?label=Latest+release&style=for-the-badge)
+![Latest Release](https://img.shields.io/github/v/release/revolutionarygamesco/pirate-insult-generator?label=Latest+release&style=for-the-badge)
 ![Foundry Version](https://img.shields.io/badge/Foundry-v13-informational?label=Foundry+version&style=for-the-badge)
-![Test Status](https://img.shields.io/github/actions/workflow/status/revolutionarygamesco/fvttmod-starter/test.yml?label=Test+status&style=for-the-badge)
-![License](https://img.shields.io/github/license/revolutionarygamesco/fvttmod-starter?style=for-the-badge)
+![Test Status](https://img.shields.io/github/actions/workflow/status/revolutionarygamesco/pirate-insult-generator/test.yml?label=Test+status&style=for-the-badge)
+![License](https://img.shields.io/github/license/revolutionarygamesco/pirate-insult-generator?style=for-the-badge)
 
 This is a simple module for Foundry VTT that generates
 piratical insults (e.g., _yellow-bellied wharf rat_).
