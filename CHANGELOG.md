@@ -1,3 +1,6 @@
+### 1.0.1
+- We now extract compendium data using the Foundry VTT CLI, commit that to git, and add a packing step (again using the Foundry VTT CLI) to our build process.
+
 ### 1.0.0
 - Includes 26 random tables to produce over 1,000 unique piratical insults
 - Includes two macros that will generate a unique insult and whisper it to you (the other includes some more vulgar options).
