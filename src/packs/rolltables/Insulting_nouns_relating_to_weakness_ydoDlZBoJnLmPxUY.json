@@ -1,0 +1,270 @@
+{
+  "name": "Insulting nouns relating to weakness",
+  "formula": "1d11",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "pipsqueak",
+      "_id": "9fdyI7uMu0IDbQJC",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.9fdyI7uMu0IDbQJC"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "guttersnipe",
+      "_id": "RO6YpzTyNp1E41tS",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.RO6YpzTyNp1E41tS"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "urchin",
+      "_id": "VT4yFT7IFdRknVaG",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.VT4yFT7IFdRknVaG"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "milksop",
+      "_id": "7jwU4o2k45SreqMk",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.7jwU4o2k45SreqMk"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "poltroon",
+      "_id": "2f8UG7my21GR37Sy",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.2f8UG7my21GR37Sy"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "caitiff",
+      "_id": "2nKOxGSR10IFdF7y",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.2nKOxGSR10IFdF7y"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "weakling",
+      "_id": "8DBBEdLmXO8GwQc2",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.8DBBEdLmXO8GwQc2"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "pantywaist",
+      "_id": "UAT3IUoq8pyyrqT4",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.UAT3IUoq8pyyrqT4"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "recreant",
+      "_id": "9tiIIZxSpXVPBYS8",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.9tiIIZxSpXVPBYS8"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "coward",
+      "_id": "UqkXcBW7WFKnGWDy",
+      "type": "text",
+      "name": "",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!ydoDlZBoJnLmPxUY.UqkXcBW7WFKnGWDy"
+    }
+  ],
+  "_id": "ydoDlZBoJnLmPxUY",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "rMOBwc74vFr6DViK",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.1.5",
+    "createdTime": 1764356670935,
+    "modifiedTime": 1764356670935,
+    "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+  },
+  "ownership": {
+    "default": 0,
+    "jhBVa8SgR5CeFzcX": 3
+  },
+  "sort": 0,
+  "_key": "!tables!ydoDlZBoJnLmPxUY"
+}

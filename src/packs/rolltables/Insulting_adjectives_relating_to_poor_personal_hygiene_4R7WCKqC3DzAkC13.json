@@ -1,0 +1,270 @@
+{
+  "name": "Insulting adjectives relating to poor personal hygiene",
+  "formula": "1d10",
+  "description": "",
+  "results": [
+    {
+      "range": [
+        1,
+        1
+      ],
+      "description": "scurvy",
+      "_id": "aSryjI9vVoAYVR3k",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.aSryjI9vVoAYVR3k"
+    },
+    {
+      "range": [
+        2,
+        2
+      ],
+      "description": "mangy",
+      "_id": "ZiWBuxUzM9oMucjC",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.ZiWBuxUzM9oMucjC"
+    },
+    {
+      "range": [
+        3,
+        3
+      ],
+      "description": "scabrous",
+      "_id": "aqhnTISqOeiEYE0t",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.aqhnTISqOeiEYE0t"
+    },
+    {
+      "range": [
+        4,
+        4
+      ],
+      "description": "filthy",
+      "_id": "HQNaVINv2wD5BRmm",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.HQNaVINv2wD5BRmm"
+    },
+    {
+      "range": [
+        5,
+        5
+      ],
+      "description": "lousy",
+      "_id": "BJzGX3UbeEOSsrFW",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.BJzGX3UbeEOSsrFW"
+    },
+    {
+      "range": [
+        6,
+        6
+      ],
+      "description": "flea-bitten",
+      "_id": "nVkakPqbw9HtUTSK",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.nVkakPqbw9HtUTSK"
+    },
+    {
+      "range": [
+        7,
+        7
+      ],
+      "description": "scabby",
+      "_id": "S1i3FMBBqFGW6Jpu",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.S1i3FMBBqFGW6Jpu"
+    },
+    {
+      "range": [
+        8,
+        8
+      ],
+      "description": "bilge-swillin’",
+      "_id": "2KO7nzeEPqGVg6gU",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.2KO7nzeEPqGVg6gU"
+    },
+    {
+      "range": [
+        9,
+        9
+      ],
+      "description": "reekin’",
+      "_id": "fvaRT8GxiVV6OLSv",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.fvaRT8GxiVV6OLSv"
+    },
+    {
+      "range": [
+        10,
+        10
+      ],
+      "description": "malodorous",
+      "_id": "V41EYhoHuDjAiUTt",
+      "type": "text",
+      "name": "",
+      "img": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "lastModifiedBy": null
+      },
+      "_key": "!tables.results!4R7WCKqC3DzAkC13.V41EYhoHuDjAiUTt"
+    }
+  ],
+  "_id": "4R7WCKqC3DzAkC13",
+  "img": "icons/svg/d20-grey.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "fnaeLnvuLwWDYO4y",
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.1.5",
+    "createdTime": 1764356670935,
+    "modifiedTime": 1764356670935,
+    "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+  },
+  "ownership": {
+    "default": 0,
+    "jhBVa8SgR5CeFzcX": 3
+  },
+  "sort": 0,
+  "_key": "!tables!4R7WCKqC3DzAkC13"
+}

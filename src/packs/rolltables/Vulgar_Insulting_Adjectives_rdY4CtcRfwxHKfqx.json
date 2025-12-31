@@ -1,0 +1,300 @@
+{
+  "name": "Vulgar Insulting Adjectives",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "name": "Insulting adjectives related to cowardice",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.wRnKsq5Gork47bND",
+      "_id": "eI8FpRWtJHrfSYPZ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358370936,
+        "modifiedTime": 1764358370936,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.eI8FpRWtJHrfSYPZ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "name": "Insulting adjectives related to drunkenness",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.sjpNi0w27HhHkmm8",
+      "_id": "1Jt21RGRBQP5KMjQ",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358372141,
+        "modifiedTime": 1764358372141,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.1Jt21RGRBQP5KMjQ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "name": "Insulting adjectives related to spiritual damnation",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.mKevIRBndAVg9rCo",
+      "_id": "KNDvM2DwFnmuHT6F",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358373357,
+        "modifiedTime": 1764358373357,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.KNDvM2DwFnmuHT6F"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "name": "Insulting adjectives related to villainy",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.Zc47PtNFJepdOyA2",
+      "_id": "iZfT0Ij38pa3tkgz",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358374644,
+        "modifiedTime": 1764358374644,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.iZfT0Ij38pa3tkgz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "name": "Insulting adjectives relating to general incompetence",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.z0liggpp29RHZzB4",
+      "_id": "9ZmsHVCV3c6n3HID",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358375907,
+        "modifiedTime": 1764358375907,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.9ZmsHVCV3c6n3HID"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "name": "Insulting adjectives relating to incompetence as a sailor",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.KAelRd0ZIypZMdRa",
+      "_id": "X6sW243yzwdptDQx",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358377453,
+        "modifiedTime": 1764358377453,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.X6sW243yzwdptDQx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "name": "Insulting adjectives relating to physical appearance",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.mcNRmWImUsoZNej2",
+      "_id": "KsH81BobgXshWj1h",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358378590,
+        "modifiedTime": 1764358378590,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.KsH81BobgXshWj1h"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "name": "Insulting adjectives relating to physical health",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.XlfkTZyvmT5yXQBw",
+      "_id": "o8Z3K7lfAcT8easY",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358380169,
+        "modifiedTime": 1764358380169,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.o8Z3K7lfAcT8easY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "name": "Insulting adjectives relating to poor personal hygiene",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.4R7WCKqC3DzAkC13",
+      "_id": "EF6cMKNkCF01RSYy",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358381221,
+        "modifiedTime": 1764358381221,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.EF6cMKNkCF01RSYy"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "name": "Insulting adjectives relating to sexual practices",
+      "img": "icons/svg/d20-grey.svg",
+      "documentUuid": "Compendium.revolutionary-pirateinsults.tables.RollTable.gid31QFMXFrN9Kjk",
+      "_id": "yslcat3qEswt25v5",
+      "description": "",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "pirateborg",
+        "systemVersion": "v1.1.5",
+        "createdTime": 1764358382242,
+        "modifiedTime": 1764358382242,
+        "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+      },
+      "_key": "!tables.results!rdY4CtcRfwxHKfqx.yslcat3qEswt25v5"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "pirateborg",
+    "systemVersion": "v1.1.5",
+    "createdTime": 1764356670935,
+    "modifiedTime": 1764356670935,
+    "lastModifiedBy": "jhBVa8SgR5CeFzcX"
+  },
+  "formula": "1d10",
+  "_id": "rdY4CtcRfwxHKfqx",
+  "ownership": {
+    "default": 0,
+    "jhBVa8SgR5CeFzcX": 3
+  },
+  "sort": 0,
+  "_key": "!tables!rdY4CtcRfwxHKfqx"
+}
