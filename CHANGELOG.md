@@ -1,3 +1,6 @@
+### 1.0.2
+- Moved from extraction to keeping the original form of compendium content under version control as YAML files.
+
 ### 1.0.1
 - We now extract compendium data using the Foundry VTT CLI, commit that to git, and add a packing step (again using the Foundry VTT CLI) to our build process.
 
