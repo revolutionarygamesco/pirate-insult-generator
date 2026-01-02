@@ -1,0 +1,68 @@
+_id: TMdgY0z2aQgz1t3Q
+_key: "!tables!TMdgY0z2aQgz1t3Q"
+name: Insulting nouns related to life at sea
+img: icons/svg/d20-grey.svg
+description: A selection of unpleasant elements of life at sea that you could call someone as an insult.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: BwIBRWXtn99GrIuP
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.BwIBRWXtn99GrIuP"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: barnacle
+  - _id: E9h25gcKDSRj3ajn
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.E9h25gcKDSRj3ajn"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: sea scum
+  - _id: vMIwCfSa0iCY5iEU
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.vMIwCfSa0iCY5iEU"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: shark bait
+  - _id: fKL9ZesAAeSi7uU9
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.fKL9ZesAAeSi7uU9"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: molar-breaker
+  - _id: dQY6JnA63djo2eZG
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.dQY6JnA63djo2eZG"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: bilge bucket
+  - _id: JdIpG4lKT51ESTHE
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.JdIpG4lKT51ESTHE"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: cat o’ nine tails
+  - _id: IYMpAu49hUYu3Yq4
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.IYMpAu49hUYu3Yq4"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: sea snake
+  - _id: lb6DSnjECxNSrS5A
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.lb6DSnjECxNSrS5A"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: bottom-feeder
+  - _id: K2o8wnIXBahHXg0F
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.K2o8wnIXBahHXg0F"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: shipworm
+  - _id: 6OOddXScROiBL4wh
+    _key: "!tables.results!TMdgY0z2aQgz1t3Q.6OOddXScROiBL4wh"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: gob o’ guano

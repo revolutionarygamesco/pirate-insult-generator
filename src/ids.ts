@@ -1,7 +1,7 @@
 import { MODULE_ID } from './scripts/settings.ts'
 
-const prefix = `Compendium.${MODULE_ID}.tables.RollTable`
-export const cadj = `${prefix}.IC1ZuvZVS4BrTG7o`
-export const vadj = `${prefix}.rdY4CtcRfwxHKfqx`
-export const cn = `${prefix}.AGZ2l0pJVvjbeQbS`
-export const vn = `${prefix}.p3ef4ocd6k1zZjG6`
+const prefix = `Compendium.${MODULE_ID}.rolltables.RollTable`
+export const cadj = `${prefix}.7ap6wR2gxMXzZycQ`
+export const vadj = `${prefix}.ZUoM0mMrSh62N62a`
+export const cn = `${prefix}.ZmrrstZ6OuliCZVa`
+export const vn = `${prefix}.1IgTDjK1dRjkb3eB`

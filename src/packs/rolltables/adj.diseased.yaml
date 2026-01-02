@@ -1,0 +1,68 @@
+_id: EAvAQIgwSJm4fhtV
+_key: "!tables!EAvAQIgwSJm4fhtV"
+name: Insulting adjectives related to physical health
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “diseased”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: BJDbWYBddUWhHdTV
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.BJDbWYBddUWhHdTV"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: rotten
+  - _id: MxU4VLObeUOwyk6R
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.MxU4VLObeUOwyk6R"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: festerin’
+  - _id: eOeJcs3GNZwxe1Jd
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.eOeJcs3GNZwxe1Jd"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: molderin’
+  - _id: JO1sLj58XaBFlSAa
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.JO1sLj58XaBFlSAa"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: putrid
+  - _id: zBvDxCmNcywAzrL3
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.zBvDxCmNcywAzrL3"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: gangrenous
+  - _id: QJXr4yLfRXQtViUs
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.QJXr4yLfRXQtViUs"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: pox-faced
+  - _id: yyJpfOEFe5y7sN2P
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.yyJpfOEFe5y7sN2P"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: pox-marked
+  - _id: fGhePnbHEIe4jmz3
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.fGhePnbHEIe4jmz3"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: fetid
+  - _id: D2ANHsNnfVHlWh9k
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.D2ANHsNnfVHlWh9k"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: rancid
+  - _id: k2pEBchihEQncK99
+    _key: "!tables.results!EAvAQIgwSJm4fhtV.k2pEBchihEQncK99"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: repellent

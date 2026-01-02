@@ -1,0 +1,68 @@
+_id: oHTG5QNzgI3Edg6E
+_key: "!tables!oHTG5QNzgI3Edg6E"
+name: Insulting nouns related to weakness or cowardice
+img: icons/svg/d20-grey.svg
+description: A selection of terms that impugn one’s strength or bravery
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: fbPmGLn4V61AH7fs
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.fbPmGLn4V61AH7fs"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: pipsqueak
+  - _id: 3gNXwidf8DTL83ai
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.3gNXwidf8DTL83ai"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: guttersnipe
+  - _id: HGjmQ4EjbToEwR04
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.HGjmQ4EjbToEwR04"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: mollycoddle
+  - _id: jtdtY0Socg2f3lTF
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.jtdtY0Socg2f3lTF"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: milksop
+  - _id: IRwk820jXgqF0n3w
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.IRwk820jXgqF0n3w"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: poltroon
+  - _id: 31ZEhmll8FNddcOw
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.31ZEhmll8FNddcOw"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: caitiff
+  - _id: C5L0A24Wka0dvbXh
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.C5L0A24Wka0dvbXh"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: weakling
+  - _id: lHVS95yR1D2zxh3N
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.lHVS95yR1D2zxh3N"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: pantywaist
+  - _id: 8WmowSoKvdr0g6l0
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.8WmowSoKvdr0g6l0"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: jellyfish
+  - _id: SanjiNFtSCqq40wp
+    _key: "!tables.results!oHTG5QNzgI3Edg6E.SanjiNFtSCqq40wp"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: coward

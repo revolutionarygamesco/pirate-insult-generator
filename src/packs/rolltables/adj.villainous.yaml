@@ -1,0 +1,68 @@
+_id: 7rgQnlsY3GhPqgaE
+_key: "!tables!7rgQnlsY3GhPqgaE"
+name: Insulting adjectives related to moral character
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “villainous.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: xsGvdycSqRQentEV
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.xsGvdycSqRQentEV"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: black-hearted
+  - _id: 3UFruWB7pYw2AHmw
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.3UFruWB7pYw2AHmw"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: villainous
+  - _id: eFQOjbDuhyoEuPiq
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.eFQOjbDuhyoEuPiq"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: treacherous
+  - _id: NaYVsNhy0KkmZR7P
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.NaYVsNhy0KkmZR7P"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: hornswogglin’
+  - _id: AaktTOxQkvNz9c9r
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.AaktTOxQkvNz9c9r"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: knavish
+  - _id: YiV8NcfhGc9YSlAH
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.YiV8NcfhGc9YSlAH"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: vile
+  - _id: NYnVUuAOVd2xVJCn
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.NYnVUuAOVd2xVJCn"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: wicked
+  - _id: HyhmISZ6J8dJVMK5
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.HyhmISZ6J8dJVMK5"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: facinorous
+  - _id: M4lr6aOBJ2bWRgfJ
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.M4lr6aOBJ2bWRgfJ"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: odious
+  - _id: YA74pTy5s3A4YD8I
+    _key: "!tables.results!7rgQnlsY3GhPqgaE.YA74pTy5s3A4YD8I"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: scathful

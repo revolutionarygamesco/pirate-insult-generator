@@ -1,0 +1,39 @@
+_id: rLNz3rRENiNWRvzV
+_key: "!tables!rLNz3rRENiNWRvzV"
+name: Insulting nouns related to parentage (vulgar)
+img: icons/svg/d20-grey.svg
+description: A selection of terms that comment on one’s parentage.
+folder: TZQWpMe3zYuFlW93
+formula: 1d12
+results:
+  - _id: zfTPVCmFZTWfTIi8
+    _key: "!tables.results!rLNz3rRENiNWRvzV.zfTPVCmFZTWfTIi8"
+    range: [ 1, 8 ]
+    weight: 8
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.oGREiG0zQbauw1j2
+    name: Insulting nouns related to parentage (clean)
+  - _id: S4uEIx6QwMP1mg6T
+    _key: "!tables.results!rLNz3rRENiNWRvzV.S4uEIx6QwMP1mg6T"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: son of a bitch
+  - _id: wkGBXwTh0qBoY6Mh
+    _key: "!tables.results!rLNz3rRENiNWRvzV.wkGBXwTh0qBoY6Mh"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: son of a whore
+  - _id: XGjkxf2zMjA1egpt
+    _key: "!tables.results!rLNz3rRENiNWRvzV.XGjkxf2zMjA1egpt"
+    range: [ 11, 11 ]
+    weight: 1
+    type: text
+    description: son of a fireship
+  - _id: wlaKfYqpYZmItZ7a
+    _key: "!tables.results!rLNz3rRENiNWRvzV.wlaKfYqpYZmItZ7a"
+    range: [ 12, 12 ]
+    weight: 1
+    type: text
+    description: bastard

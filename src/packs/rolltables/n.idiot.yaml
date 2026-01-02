@@ -1,0 +1,68 @@
+_id: b8gkFq5x9t2JLHhj
+_key: "!tables!b8gkFq5x9t2JLHhj"
+name: Insulting nouns related to stupidity
+img: icons/svg/d20-grey.svg
+description: A selection of terms that comment on one’s lack of intelligence.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: emKgMNImwHuDMEyA
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.emKgMNImwHuDMEyA"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: buffoon
+  - _id: ZlXLzwQbvmMD5qIN
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.ZlXLzwQbvmMD5qIN"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: oaf
+  - _id: ONaSueNE4jX4FqA6
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.ONaSueNE4jX4FqA6"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: dolt
+  - _id: 4fveYqSaZqBSbCQT
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.4fveYqSaZqBSbCQT"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: idler
+  - _id: zz2kLUQvqQHpQnzp
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.zz2kLUQvqQHpQnzp"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: jobbernowl
+  - _id: rtUeboY40ZsM5rHu
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.rtUeboY40ZsM5rHu"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: beef-head
+  - _id: gLCv5n4qJTU4QPUk
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.gLCv5n4qJTU4QPUk"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: fopdoodle
+  - _id: PZQkknh5iBj04FZa
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.PZQkknh5iBj04FZa"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: dull-swift
+  - _id: 8gVZ8hEFKwVntT6T
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.8gVZ8hEFKwVntT6T"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: paper skull
+  - _id: SUZGWea0PiZdGTUm
+    _key: "!tables.results!b8gkFq5x9t2JLHhjPga.SUZGWea0PiZdGTUm"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: muttonhead

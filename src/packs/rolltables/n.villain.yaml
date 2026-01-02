@@ -1,0 +1,68 @@
+_id: 6qnQqE6BmNVIJSKB
+_key: "!tables!6qnQqE6BmNVIJSKB"
+name: Insulting nouns related to lack of moral character
+img: icons/svg/d20-grey.svg
+description: A selection of terms that impugn one’s moral character.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: aNBn0kUklw5Q7rnR
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.aNBn0kUklw5Q7rnR"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: blighter
+  - _id: TqrJf1ugt8IZIAKk
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.TqrJf1ugt8IZIAKk"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: blackguard
+  - _id: ByvHMT1BULT1LQBf
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.ByvHMT1BULT1LQBf"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: scoundrel
+  - _id: MyycPuaZ4tMdwgft
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.MyycPuaZ4tMdwgft"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: rapscallion
+  - _id: lMUuNOWtqn4HPITu
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.lMUuNOWtqn4HPITu"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: knave
+  - _id: WIdAYpgeGY2WstOi
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.WIdAYpgeGY2WstOi"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: bleeder
+  - _id: Vso9hwEWEIV5541G
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.Vso9hwEWEIV5541G"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: jackanape
+  - _id: 0Aw2X2wjEhy5a5zq
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.0Aw2X2wjEhy5a5zq"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: wretch
+  - _id: AXiCUGfOSR9gpRpn
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.AXiCUGfOSR9gpRpn"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: varlet
+  - _id: gzDSqxdKdJ9MuFx3
+    _key: "!tables.results!6qnQqE6BmNVIJSKB.gzDSqxdKdJ9MuFx3"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: picaroon

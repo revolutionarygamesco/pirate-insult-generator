@@ -1,0 +1,78 @@
+_id: ZmrrstZ6OuliCZVa
+_key: "!tables!ZmrrstZ6OuliCZVa"
+name: Insulting nouns
+img: icons/svg/d20-grey.svg
+description: A selection of insulting nouns
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: csuDxOpZ7zLyr7hw
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.csuDxOpZ7zLyr7hw"
+    range: [ 1, 1 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.9WUFHJJqQJKte1QU
+    name: Insulting nouns related to animals
+  - _id: cFs13c9u6WMD1Z8b
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.cFs13c9u6WMD1Z8b"
+    range: [ 2, 2 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.TMdgY0z2aQgz1t3Q
+    name: Insulting nouns related to life at sea
+  - _id: c0HCuV6Vh2kCvKW0
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.c0HCuV6Vh2kCvKW0"
+    range: [ 3, 3 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.oGREiG0zQbauw1j2
+    name: Insulting nouns related to parentage (clean)
+  - _id: 8Hz9wvOlekalo4oM
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.8Hz9wvOlekalo4oM"
+    range: [ 4, 4 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.OYuoMEXEmCPDePga
+    name: Insulting nouns related to blasphemy
+  - _id: gMsCsw1QlntOVndB
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.gMsCsw1QlntOVndB"
+    range: [ 5, 5 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.b8gkFq5x9t2JLHhjPga
+    name: Insulting nouns related to stupidity
+  - _id: 08WksuyOpAG9L1H8
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.08WksuyOpAG9L1H8"
+    range: [ 6, 6 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.XTtiSOOCepFsB1JF
+    name: Insulting nouns related to lack of seamanship
+  - _id: SqVxqva71crZWJun
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.SqVxqva71crZWJun"
+    range: [ 7, 7 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.cZkJQ0xHiNhKlCJM
+    name: Insulting nouns miscellany (clean)
+  - _id: fA9A0VseA1TRTBxt
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.fA9A0VseA1TRTBxt"
+    range: [ 8, 8 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.TStZg4OjwJ3zTSNe
+    name: Terms for sailors
+  - _id: UCwHwX77Aa0VQ53t
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.UCwHwX77Aa0VQ53t"
+    range: [ 9, 9 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.6qnQqE6BmNVIJSKB
+    name: Insulting nouns related to lack of moral character
+  - _id: gQdARW5po8kPmQIe
+    _key: "!tables.results!ZmrrstZ6OuliCZVa.gQdARW5po8kPmQIe"
+    range: [ 10, 10 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.oHTG5QNzgI3Edg6E
+    name: Insulting nouns related to weakness or cowardice

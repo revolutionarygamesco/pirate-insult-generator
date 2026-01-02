@@ -1,0 +1,68 @@
+_id: TStZg4OjwJ3zTSNe
+_key: "!tables!TStZg4OjwJ3zTSNe"
+name: Terms for sailors
+img: icons/svg/d20-grey.svg
+description: A selection of terms to refer to a sailor.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: xOoK93tuyUtE5V0q
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.xOoK93tuyUtE5V0q"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: swabby
+  - _id: BRc7C1viVtq4Zaa5
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.BRc7C1viVtq4Zaa5"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: tar
+  - _id: SbjWzdhokh3I0VPs
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.SbjWzdhokh3I0VPs"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: jack-tar
+  - _id: J7MRo4Rcnd0PGClJ
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.J7MRo4Rcnd0PGClJ"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: shippy
+  - _id: EzG2oE4FcYglFuZN
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.EzG2oE4FcYglFuZN"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: steady-sweeper
+  - _id: sOf5X1fv43ziamlP
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.sOf5X1fv43ziamlP"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: sea dog
+  - _id: rrMkk6nhKjiN6YJU
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.rrMkk6nhKjiN6YJU"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: old salt
+  - _id: o1q9QmswAhTfRbRW
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.o1q9QmswAhTfRbRW"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: deck ape
+  - _id: 8m7FGjAEIPVrgg4v
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.8m7FGjAEIPVrgg4v"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: matelot
+  - _id: 8BwslJojyGkroPQa
+    _key: "!tables.results!TStZg4OjwJ3zTSNe.8BwslJojyGkroPQa"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: lobscouser

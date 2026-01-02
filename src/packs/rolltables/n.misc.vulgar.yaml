@@ -1,0 +1,39 @@
+_id: CrXfJ4iphprOl3Cw
+_key: "!tables!CrXfJ4iphprOl3Cw"
+name: Insulting nouns miscellany (vulgar)
+img: icons/svg/d20-grey.svg
+description: A selection of miscellaneous vulgar things to call someone.
+folder: TZQWpMe3zYuFlW93
+formula: 1d12
+results:
+  - _id: 8TmcJdFTic7s9HZe
+    _key: "!tables.results!CrXfJ4iphprOl3Cw.8TmcJdFTic7s9HZe"
+    range: [ 1, 8 ]
+    weight: 8
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.cZkJQ0xHiNhKlCJM
+    name: Insulting nouns miscellany (clean)
+  - _id: LLiFwy0bZXdOqvjb
+    _key: "!tables.results!CrXfJ4iphprOl3Cw.LLiFwy0bZXdOqvjb"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: strumpet
+  - _id: MiFgNk1PQdPeU8rY
+    _key: "!tables.results!CrXfJ4iphprOl3Cw.MiFgNk1PQdPeU8rY"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: whore
+  - _id: yY7CWg4qf477Qegc
+    _key: "!tables.results!CrXfJ4iphprOl3Cw.yY7CWg4qf477Qegc"
+    range: [ 11, 11 ]
+    weight: 1
+    type: text
+    description: fireship
+  - _id: 6V1pGagQ01MmUx3D
+    _key: "!tables.results!CrXfJ4iphprOl3Cw.6V1pGagQ01MmUx3D"
+    range: [ 12, 12 ]
+    weight: 1
+    type: text
+    description: shitworm

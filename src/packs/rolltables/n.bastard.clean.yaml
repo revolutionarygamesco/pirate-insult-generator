@@ -1,0 +1,56 @@
+_id: oGREiG0zQbauw1j2
+_key: "!tables!oGREiG0zQbauw1j2"
+name: Insulting nouns related to parentage (clean)
+img: icons/svg/d20-grey.svg
+description: A selection of terms that comment on one’s parentage.
+folder: TZQWpMe3zYuFlW93
+formula: 1d8
+results:
+  - _id: sJZ1jElAwRiY3Kzg
+    _key: "!tables.results!oGREiG0zQbauw1j2.sJZ1jElAwRiY3Kzg"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: son of a biscuit eater
+  - _id: niHlY3yAhYpDC5m2
+    _key: "!tables.results!oGREiG0zQbauw1j2.niHlY3yAhYpDC5m2"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: son of a sea cook
+  - _id: 5wIbNBqvpI1TEFYi
+    _key: "!tables.results!oGREiG0zQbauw1j2.5wIbNBqvpI1TEFYi"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: son of the devil
+  - _id: fJiJU0uFYmaUQ53L
+    _key: "!tables.results!oGREiG0zQbauw1j2.fJiJU0uFYmaUQ53L"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: son of a motherless goat
+  - _id: 4ig82mrMAuc1G7xA
+    _key: "!tables.results!oGREiG0zQbauw1j2.4ig82mrMAuc1G7xA"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: son of a bilge rat
+  - _id: IAJSF4OFSNXsIEkv
+    _key: "!tables.results!oGREiG0zQbauw1j2.IAJSF4OFSNXsIEkv"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: son of a farmer
+  - _id: BqXiQfh0Ely9hgXl
+    _key: "!tables.results!oGREiG0zQbauw1j2.BqXiQfh0Ely9hgXl"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: son of a sea hag
+  - _id: YIwHMDj2nTVTlhYq
+    _key: "!tables.results!oGREiG0zQbauw1j2.YIwHMDj2nTVTlhYq"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: son of a witch

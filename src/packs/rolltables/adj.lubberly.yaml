@@ -1,0 +1,68 @@
+_id: vld58Pz0DQiTlUkl
+_key: "!tables!vld58Pz0DQiTlUkl"
+name: Insulting adjectives related to poor seamanship
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “lubberly.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: IzV2hwMoSUMMUCH1
+    _key: "!tables.results!vld58Pz0DQiTlUkl.IzV2hwMoSUMMUCH1"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: landlubbin’
+  - _id: AnHIollacJOJE9TX
+    _key: "!tables.results!vld58Pz0DQiTlUkl.AnHIollacJOJE9TX"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: blitherin’
+  - _id: oCmcszTzafHgPs06
+    _key: "!tables.results!vld58Pz0DQiTlUkl.oCmcszTzafHgPs06"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: lubberly
+  - _id: EKbQpjUYmhGd9Xrx
+    _key: "!tables.results!vld58Pz0DQiTlUkl.EKbQpjUYmhGd9Xrx"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: sea-sick
+  - _id: AAUbVqJdG8kn09Vd
+    _key: "!tables.results!vld58Pz0DQiTlUkl.AAUbVqJdG8kn09Vd"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: chowder-headed
+  - _id: lkjDRqI2qy0Yr2Ox
+    _key: "!tables.results!vld58Pz0DQiTlUkl.lkjDRqI2qy0Yr2Ox"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: bumblin’
+  - _id: 5vmLzRqdv4qoUgrJ
+    _key: "!tables.results!vld58Pz0DQiTlUkl.5vmLzRqdv4qoUgrJ"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: silk-sock
+  - _id: nmf4J9PIaz3sktzD
+    _key: "!tables.results!vld58Pz0DQiTlUkl.nmf4J9PIaz3sktzD"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: witless
+  - _id: ZgvDCyhIsNrBDehU
+    _key: "!tables.results!vld58Pz0DQiTlUkl.ZgvDCyhIsNrBDehU"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: callow
+  - _id: a9HvOaqC5REg8I3h
+    _key: "!tables.results!vld58Pz0DQiTlUkl.a9HvOaqC5REg8I3h"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: gormless

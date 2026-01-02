@@ -1,0 +1,68 @@
+_id: FyaytA8aDLlXaPqT
+_key: "!tables!FyaytA8aDLlXaPqT"
+name: Insulting adjectives related to cowardice
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “cowardly.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: gRNXBFRncyE83p8q
+    _key: "!tables.results!FyaytA8aDLlXaPqT.gRNXBFRncyE83p8q"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: lily-livered
+  - _id: HOip0YwUmaA72J9Z
+    _key: "!tables.results!FyaytA8aDLlXaPqT.HOip0YwUmaA72J9Z"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: yellow-bellied
+  - _id: Eyn2wt8IM81r0HKi
+    _key: "!tables.results!FyaytA8aDLlXaPqT.Eyn2wt8IM81r0HKi"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: craven
+  - _id: IjVQwLrzfMedTGis
+    _key: "!tables.results!FyaytA8aDLlXaPqT.IjVQwLrzfMedTGis"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: gutless
+  - _id: pPe9walJFTkheNfD
+    _key: "!tables.results!FyaytA8aDLlXaPqT.pPe9walJFTkheNfD"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: milk-livered
+  - _id: aBbQG7HlvsMlkb3n
+    _key: "!tables.results!FyaytA8aDLlXaPqT.aBbQG7HlvsMlkb3n"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: spineless
+  - _id: p6pvnZ8dbob3Wk5b
+    _key: "!tables.results!FyaytA8aDLlXaPqT.p6pvnZ8dbob3Wk5b"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: knock-kneed
+  - _id: WDZPtnxIDru08NT5
+    _key: "!tables.results!FyaytA8aDLlXaPqT.WDZPtnxIDru08NT5"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: faint-hearted
+  - _id: DX1cu7hrUy9RSnCT
+    _key: "!tables.results!FyaytA8aDLlXaPqT.DX1cu7hrUy9RSnCT"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: whimperin’
+  - _id: 79AFKSM8HHgXjQwZ
+    _key: "!tables.results!FyaytA8aDLlXaPqT.79AFKSM8HHgXjQwZ"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: quakin’

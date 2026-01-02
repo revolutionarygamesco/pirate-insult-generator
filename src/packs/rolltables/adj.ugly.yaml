@@ -1,0 +1,68 @@
+_id: IKsUGsFf4WziNVPJ
+_key: "!tables!IKsUGsFf4WziNVPJ"
+name: Insulting adjectives related to physical appearance
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “ugly.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: rOm9mN8n9ooX5nU5
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.rOm9mN8n9ooX5nU5"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: crooked
+  - _id: rDrOMWRsqM6SyZSS
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.rDrOMWRsqM6SyZSS"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: misshapen
+  - _id: hK4OYfRskUzcaKqS
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.hK4OYfRskUzcaKqS"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: ill-favored
+  - _id: k9twgr1xSBVaPQSt
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.k9twgr1xSBVaPQSt"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: warty
+  - _id: S0JttCbsOJF96OK7
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.S0JttCbsOJF96OK7"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: mutton-faced
+  - _id: s3KwDA1CyfrEbWRd
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.s3KwDA1CyfrEbWRd"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: hideous
+  - _id: XmaB03cMDB5jZI7E
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.XmaB03cMDB5jZI7E"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: pig-faced
+  - _id: JxAkxSUXKJHJcM5W
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.JxAkxSUXKJHJcM5W"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: gut-churnin’
+  - _id: AGjo8ubiAHcSXPlV
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.AGjo8ubiAHcSXPlV"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: horrid
+  - _id: blQ0Enc4hVxCLhjX
+    _key: "!tables.results!IKsUGsFf4WziNVPJ.blQ0Enc4hVxCLhjX"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: grotesque

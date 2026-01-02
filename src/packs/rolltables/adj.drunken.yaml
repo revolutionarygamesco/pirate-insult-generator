@@ -1,0 +1,68 @@
+_id: Gx5IXIQsIgbU093g
+_key: "!tables!Gx5IXIQsIgbU093g"
+name: Insulting adjectives related to drunkenness
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “drunken”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: dKqeimb8wWooRvw2
+    _key: "!tables.results!Gx5IXIQsIgbU093g.dKqeimb8wWooRvw2"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: sodden
+  - _id: VXtH2iInBXkZ1B7F
+    _key: "!tables.results!Gx5IXIQsIgbU093g.VXtH2iInBXkZ1B7F"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: rum-soaked
+  - _id: zOnn0FTtVvsPyCnz
+    _key: "!tables.results!Gx5IXIQsIgbU093g.zOnn0FTtVvsPyCnz"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: grog-sotted
+  - _id: M2gSiL1si5m2Ele2
+    _key: "!tables.results!Gx5IXIQsIgbU093g.M2gSiL1si5m2Ele2"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: pickled
+  - _id: DQhi75MMfM1eO9FH
+    _key: "!tables.results!Gx5IXIQsIgbU093g.DQhi75MMfM1eO9FH"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: splicin’
+  - _id: mZBOuKqS7aANM6Iq
+    _key: "!tables.results!Gx5IXIQsIgbU093g.mZBOuKqS7aANM6Iq"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: sotted
+  - _id: F6aFhM17WFfCkC1w
+    _key: "!tables.results!Gx5IXIQsIgbU093g.F6aFhM17WFfCkC1w"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: drunken
+  - _id: zL8FAU4Lf6NDVuWJ
+    _key: "!tables.results!Gx5IXIQsIgbU093g.zL8FAU4Lf6NDVuWJ"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: muzzy
+  - _id: nXe2tqmVYdwB3Kcz
+    _key: "!tables.results!Gx5IXIQsIgbU093g.nXe2tqmVYdwB3Kcz"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: hot-copperin’
+  - _id: abK3LW3PQytQf55I
+    _key: "!tables.results!Gx5IXIQsIgbU093g.abK3LW3PQytQf55I"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: bousin’

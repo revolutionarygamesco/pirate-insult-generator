@@ -1,0 +1,68 @@
+_id: OYuoMEXEmCPDePga
+_key: "!tables!OYuoMEXEmCPDePga"
+name: Insulting nouns related to blasphemy
+img: icons/svg/d20-grey.svg
+description: A selection of terms related to religious practice that you could call someone as an insult.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: KHm96BEGnPxjnBZW
+    _key: "!tables.results!OYuoMEXEmCPDePga.KHm96BEGnPxjnBZW"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: blasphemer
+  - _id: hdXxiJVNEBX6e4Ph
+    _key: "!tables.results!OYuoMEXEmCPDePga.hdXxiJVNEBX6e4Ph"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: heathen
+  - _id: ZywE8SUz6buXghzl
+    _key: "!tables.results!OYuoMEXEmCPDePga.ZywE8SUz6buXghzl"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: apostate
+  - _id: RbRwvhkYfnMcEs2D
+    _key: "!tables.results!OYuoMEXEmCPDePga.RbRwvhkYfnMcEs2D"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: pagan
+  - _id: jKB584p5MX6VwQDn
+    _key: "!tables.results!OYuoMEXEmCPDePga.jKB584p5MX6VwQDn"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: infidel
+  - _id: qrhlaJ2zdQcCzwhu
+    _key: "!tables.results!OYuoMEXEmCPDePga.qrhlaJ2zdQcCzwhu"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: idolater
+  - _id: Xygw1BI1QUHUe1nj
+    _key: "!tables.results!OYuoMEXEmCPDePga.Xygw1BI1QUHUe1nj"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: heretic
+  - _id: ktYLLfoidUTVfWzU
+    _key: "!tables.results!OYuoMEXEmCPDePga.ktYLLfoidUTVfWzU"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: demoniac
+  - _id: vbiryMix2jRBWsBH
+    _key: "!tables.results!OYuoMEXEmCPDePga.vbiryMix2jRBWsBH"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: warlock
+  - _id: 8Y0eQXUquhj5opM1
+    _key: "!tables.results!OYuoMEXEmCPDePga.8Y0eQXUquhj5opM1"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: necromancer

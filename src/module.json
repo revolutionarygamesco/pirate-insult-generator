@@ -19,7 +19,7 @@
   ],
   "packs": [
     {
-      "name": "tables",
+      "name": "rolltables",
       "label": "Pirate Insult Generator Roll Tables",
       "path": "packs/rolltables",
       "type": "RollTable",
@@ -42,7 +42,7 @@
       "name": "Pirate Insult Generator",
       "sorting": "a",
       "packs": [
-        "tables",
+        "rolltables",
         "macros"
       ]
     }

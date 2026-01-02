@@ -1,0 +1,68 @@
+_id: Up24wQrUncxt16ou
+_key: "!tables!Up24wQrUncxt16ou"
+name: Insulting adjectives related to personal hygiene
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “dirty”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: mLkHxf4qzmRLOowi
+    _key: "!tables.results!Up24wQrUncxt16ou.mLkHxf4qzmRLOowi"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: scurvy
+  - _id: ZwuyIajs3CvYyXlV
+    _key: "!tables.results!Up24wQrUncxt16ou.ZwuyIajs3CvYyXlV"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: mangy
+  - _id: pgGjjVVwZWnwTxaF
+    _key: "!tables.results!Up24wQrUncxt16ou.pgGjjVVwZWnwTxaF"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: scabrous
+  - _id: A3Y3oPp8L4b5Gqeg
+    _key: "!tables.results!Up24wQrUncxt16ou.A3Y3oPp8L4b5Gqeg"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: filthy
+  - _id: Er6T6uaVM0iHEbkT
+    _key: "!tables.results!Up24wQrUncxt16ou.Er6T6uaVM0iHEbkT"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: lousy
+  - _id: 1eMGMd8XSulVo578
+    _key: "!tables.results!Up24wQrUncxt16ou.1eMGMd8XSulVo578"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: flea-bitten
+  - _id: p7JtfqxXFBfobZaL
+    _key: "!tables.results!Up24wQrUncxt16ou.p7JtfqxXFBfobZaL"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: scabby
+  - _id: 3vRzaPE50UF69phd
+    _key: "!tables.results!Up24wQrUncxt16ou.3vRzaPE50UF69phd"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: bilge-swillin’
+  - _id: Fqzp2j5TCZJDA285
+    _key: "!tables.results!Up24wQrUncxt16ou.Fqzp2j5TCZJDA285"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: reekin’
+  - _id: eG9wPIlOkxSpzjmj
+    _key: "!tables.results!Up24wQrUncxt16ou.eG9wPIlOkxSpzjmj"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: malodorous

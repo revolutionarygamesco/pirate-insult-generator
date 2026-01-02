@@ -1,0 +1,68 @@
+_id: tC77xYrqQzIuKBIV
+_key: "!tables!tC77xYrqQzIuKBIV"
+name: Insulting adjectives related to sexual practice
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “tC77xYrqQzIuKBIV.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: rWhqc1AfMN4KtIhQ
+    _key: "!tables.results!tC77xYrqQzIuKBIV.rWhqc1AfMN4KtIhQ"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: buggerin’
+  - _id: 9ZXjliXShuHbwAAb
+    _key: "!tables.results!tC77xYrqQzIuKBIV.9ZXjliXShuHbwAAb"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: libertine
+  - _id: LB7DHjVauGIXyi3H
+    _key: "!tables.results!tC77xYrqQzIuKBIV.LB7DHjVauGIXyi3H"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: dissolute
+  - _id: MG96XmiZfvhV95U9
+    _key: "!tables.results!tC77xYrqQzIuKBIV.MG96XmiZfvhV95U9"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: licentious
+  - _id: X2BHj3k9gKs2WX0o
+    _key: "!tables.results!tC77xYrqQzIuKBIV.X2BHj3k9gKs2WX0o"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: unclean
+  - _id: UCw2uyNwzPRGU5wZ
+    _key: "!tables.results!tC77xYrqQzIuKBIV.UCw2uyNwzPRGU5wZ"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: syphilitic
+  - _id: AKApKIVSz6aVfJNf
+    _key: "!tables.results!tC77xYrqQzIuKBIV.AKApKIVSz6aVfJNf"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: debauched
+  - _id: exlmIs8hHu8bdb9x
+    _key: "!tables.results!tC77xYrqQzIuKBIV.exlmIs8hHu8bdb9x"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: rakish
+  - _id: 9zXR95EJB0QuMCcc
+    _key: "!tables.results!tC77xYrqQzIuKBIV.9zXR95EJB0QuMCcc"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: rakehelly
+  - _id: dQqj9mEztNvDpdiN
+    _key: "!tables.results!tC77xYrqQzIuKBIV.dQqj9mEztNvDpdiN"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: depraved

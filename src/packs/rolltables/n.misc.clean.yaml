@@ -1,0 +1,56 @@
+_id: cZkJQ0xHiNhKlCJM
+_key: "!tables!cZkJQ0xHiNhKlCJM"
+name: Insulting nouns miscellany (clean)
+img: icons/svg/d20-grey.svg
+description: A selection of miscellaneous insulting things to call someone.
+folder: TZQWpMe3zYuFlW93
+formula: 1d8
+results:
+  - _id: o3dJAsnTsuxCM9zC
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.o3dJAsnTsuxCM9zC"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: cackle fruit
+  - _id: yFsrKgZ0qLSWK1Od
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.yFsrKgZ0qLSWK1Od"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: holystone
+  - _id: TbHpoZR3tQP1oYKN
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.TbHpoZR3tQP1oYKN"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: powder monkey
+  - _id: N4u9KOTsjMBs6pL3
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.N4u9KOTsjMBs6pL3"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: mutineer
+  - _id: MUM944yLE30Lh4ya
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.MUM944yLE30Lh4ya"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: castaway
+  - _id: DsnGhrWweAEutLsD
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.DsnGhrWweAEutLsD"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: turncoat
+  - _id: UhyQbUrAsRi8yeXx
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.UhyQbUrAsRi8yeXx"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: man o’ war
+  - _id: ZPt1lCMXW3yTjWwb
+    _key: "!tables.results!cZkJQ0xHiNhKlCJM.ZPt1lCMXW3yTjWwb"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: dungbie

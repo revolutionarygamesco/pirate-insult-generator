@@ -1,0 +1,78 @@
+_id: ZUoM0mMrSh62N62a
+_key: "!tables!ZUoM0mMrSh62N62a"
+name: Insulting adjectives (vulgar)
+img: icons/svg/d20-grey.svg
+description: A selection of (potentially vulgar) insulting adjectives
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: JScqaZrRfppRkwAR
+    _key: "!tables.results!ZUoM0mMrSh62N62a.JScqaZrRfppRkwAR"
+    range: [ 1, 1 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.FyaytA8aDLlXaPqT
+    name: Insulting adjectives related to cowardice
+  - _id: RlSOQzfIJ61jKcOQ
+    _key: "!tables.results!ZUoM0mMrSh62N62a.RlSOQzfIJ61jKcOQ"
+    range: [ 2, 2 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.HFWh6YQExVPGDC7j
+    name: Insulting adjectives related to damnation
+  - _id: FCEQibJgsxPVkt4J
+    _key: "!tables.results!ZUoM0mMrSh62N62a.FCEQibJgsxPVkt4J"
+    range: [ 3, 3 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.Up24wQrUncxt16ou
+    name: Insulting adjectives related to personal hygiene
+  - _id: 813o0ylBbYdCoZm7
+    _key: "!tables.results!ZUoM0mMrSh62N62a.813o0ylBbYdCoZm7"
+    range: [ 4, 4 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.EAvAQIgwSJm4fhtV
+    name: Insulting adjectives related to physical health
+  - _id: NtsMQ7mMYuI62mvh
+    _key: "!tables.results!ZUoM0mMrSh62N62a.NtsMQ7mMYuI62mvh"
+    range: [ 5, 5 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.Gx5IXIQsIgbU093g
+    name: Insulting adjectives related to drunkenness
+  - _id: o9O9yqjTycQQydAG
+    _key: "!tables.results!ZUoM0mMrSh62N62a.o9O9yqjTycQQydAG"
+    range: [ 6, 6 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.WJWWKcm2JukqKrET
+    name: Insulting adjectives related to general incompetence
+  - _id: Jyoo11q1UjBNtlC1
+    _key: "!tables.results!ZUoM0mMrSh62N62a.Jyoo11q1UjBNtlC1"
+    range: [ 7, 7 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.tC77xYrqQzIuKBIV
+    name: Insulting adjectives related to sexual practice
+  - _id: G1LAotxm4tyhkL4V
+    _key: "!tables.results!ZUoM0mMrSh62N62a.G1LAotxm4tyhkL4V"
+    range: [ 8, 8 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.vld58Pz0DQiTlUkl
+    name: Insulting adjectives related to poor seamanship
+  - _id: TgMAbS9ZvZ6JuINM
+    _key: "!tables.results!ZUoM0mMrSh62N62a.TgMAbS9ZvZ6JuINM"
+    range: [ 9, 9 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.IKsUGsFf4WziNVPJ
+    name: Insulting adjectives related to physical appearance
+  - _id: 6Jm4hCZGvLYdA3H2
+    _key: "!tables.results!ZUoM0mMrSh62N62a.6Jm4hCZGvLYdA3H2"
+    range: [ 10, 10 ]
+    weight: 1
+    type: document
+    documentUuid: Compendium.revolutionary-pirateinsults.rolltables.RollTable.7rgQnlsY3GhPqgaE
+    name: Insulting adjectives related to moral character

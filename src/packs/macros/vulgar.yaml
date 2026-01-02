@@ -1,0 +1,14 @@
+_id: PlGvM8AwtOfUp3WV
+_key: "!macros!PlGvM8AwtOfUp3WV"
+name: Generate (Potentially Vulgar) Insult
+type: script
+scope: global
+img: icons/svg/d20-grey.svg
+command: |
+  const insult = await game.modules.get('revolutionary-pirateinsults').api.generateInsult('R')
+  await foundry.documents.ChatMessage.create({
+    speaker: { alias: "A Salty Old Sea Dog" },
+    flavor: "Draws an insult",
+    content: `Ye ${insult}!`,
+    whisper: [game.user.id]
+  })

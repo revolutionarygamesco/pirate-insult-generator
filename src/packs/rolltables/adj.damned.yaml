@@ -1,0 +1,68 @@
+_id: HFWh6YQExVPGDC7j
+_key: "!tables!HFWh6YQExVPGDC7j"
+name: Insulting adjectives related to damnation
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “damned.”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: SD1SgPX6ZLZaDTlF
+    _key: "!tables.results!HFWh6YQExVPGDC7j.SD1SgPX6ZLZaDTlF"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: damned
+  - _id: 1BYgYZ7bNO8J6VWh
+    _key: "!tables.results!HFWh6YQExVPGDC7j.1BYgYZ7bNO8J6VWh"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: cursed
+  - _id: UXtF5kM09EaErSJ8
+    _key: "!tables.results!HFWh6YQExVPGDC7j.UXtF5kM09EaErSJ8"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: thrice-damned
+  - _id: WkXgRfxNDLV9fJn2
+    _key: "!tables.results!HFWh6YQExVPGDC7j.WkXgRfxNDLV9fJn2"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: godless
+  - _id: rzkV2BMViYCSRNmh
+    _key: "!tables.results!HFWh6YQExVPGDC7j.rzkV2BMViYCSRNmh"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: unholy
+  - _id: f5vf3m4khh4rpHIP
+    _key: "!tables.results!HFWh6YQExVPGDC7j.f5vf3m4khh4rpHIP"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: hell-bound
+  - _id: 4tiDXFDXNByCj3tj
+    _key: "!tables.results!HFWh6YQExVPGDC7j.4tiDXFDXNByCj3tj"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: blasted
+  - _id: qAx75NYfGVxJweB4
+    _key: "!tables.results!HFWh6YQExVPGDC7j.qAx75NYfGVxJweB4"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: infernal
+  - _id: ugMAEp84EFaS6HOT
+    _key: "!tables.results!HFWh6YQExVPGDC7j.ugMAEp84EFaS6HOT"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: devil-sworn
+  - _id: 379J9YbKvpDrV1f5
+    _key: "!tables.results!HFWh6YQExVPGDC7j.379J9YbKvpDrV1f5"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: accursed

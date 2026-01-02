@@ -1,0 +1,68 @@
+_id: 9WUFHJJqQJKte1QU
+_key: "!tables!9WUFHJJqQJKte1QU"
+name: Insulting nouns related to animals
+img: icons/svg/d20-grey.svg
+description: A selection of animals that you could call someone as an insult.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: occNyzSrFJFgijvY
+    _key: "!tables.results!9WUFHJJqQJKte1QU.occNyzSrFJFgijvY"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: dog
+  - _id: 1MYFay0tNEdlxJBX
+    _key: "!tables.results!9WUFHJJqQJKte1QU.1MYFay0tNEdlxJBX"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: cur
+  - _id: P3bu8tAxeJFd69uR
+    _key: "!tables.results!9WUFHJJqQJKte1QU.P3bu8tAxeJFd69uR"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: whelp
+  - _id: ox617YCI09STF3xC
+    _key: "!tables.results!9WUFHJJqQJKte1QU.ox617YCI09STF3xC"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: sea bass
+  - _id: iFVtjUlCAvyOYX4d
+    _key: "!tables.results!9WUFHJJqQJKte1QU.iFVtjUlCAvyOYX4d"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: pig
+  - _id: CFt12P6QB0NPTYgx
+    _key: "!tables.results!9WUFHJJqQJKte1QU.CFt12P6QB0NPTYgx"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: bilge rat
+  - _id: Tti10RHqt12l8h5R
+    _key: "!tables.results!9WUFHJJqQJKte1QU.Tti10RHqt12l8h5R"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: goat
+  - _id: Yllu6wfcaRy5r8o1
+    _key: "!tables.results!9WUFHJJqQJKte1QU.Yllu6wfcaRy5r8o1"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: louse
+  - _id: 9qZy2u5Ki3r68RgU
+    _key: "!tables.results!9WUFHJJqQJKte1QU.9qZy2u5Ki3r68RgU"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: worm
+  - _id: An345kJBQLGhO4Cw
+    _key: "!tables.results!9WUFHJJqQJKte1QU.An345kJBQLGhO4Cw"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: weevil

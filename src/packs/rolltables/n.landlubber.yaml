@@ -1,0 +1,68 @@
+_id: XTtiSOOCepFsB1JF
+_key: "!tables!XTtiSOOCepFsB1JF"
+name: Insulting nouns related to lack of seamanship
+img: icons/svg/d20-grey.svg
+description: A selection of terms that impugn one’s abilities or experience as a sailor.
+folder: TZQWpMe3zYuFlW93
+formula: 1d10
+results:
+  - _id: s7DxVTT6VBUEEWLl
+    _key: "!tables.results!XTtiSOOCepFsB1JF.s7DxVTT6VBUEEWLl"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: horse marine
+  - _id: xY9jRNyBdXZ5hNdd
+    _key: "!tables.results!XTtiSOOCepFsB1JF.xY9jRNyBdXZ5hNdd"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: sea dandy
+  - _id: QScucc4fZQ1n0cdQ
+    _key: "!tables.results!XTtiSOOCepFsB1JF.QScucc4fZQ1n0cdQ"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: landsman
+  - _id: 1ELKWjdzE4bsA2BR
+    _key: "!tables.results!XTtiSOOCepFsB1JF.1ELKWjdzE4bsA2BR"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: idler
+  - _id: 2QQ6bCtQZAThniMR
+    _key: "!tables.results!XTtiSOOCepFsB1JF.2QQ6bCtQZAThniMR"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: afterguard
+  - _id: 6Aetfp1nJitmnObU
+    _key: "!tables.results!XTtiSOOCepFsB1JF.6Aetfp1nJitmnObU"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: harbor rat
+  - _id: o7DwXB0DI8aVjiJi
+    _key: "!tables.results!XTtiSOOCepFsB1JF.o7DwXB0DI8aVjiJi"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: cumberworld
+  - _id: xn2yXQvqnkoCyEeg
+    _key: "!tables.results!XTtiSOOCepFsB1JF.xn2yXQvqnkoCyEeg"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: clod
+  - _id: dIyiVg9IkVO4ES54
+    _key: "!tables.results!XTtiSOOCepFsB1JF.dIyiVg9IkVO4ES54"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: barrack stanchion
+  - _id: GulhZWHuJxh5Ebmm
+    _key: "!tables.results!XTtiSOOCepFsB1JF.GulhZWHuJxh5Ebmm"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: wharf rat

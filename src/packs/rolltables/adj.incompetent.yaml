@@ -1,0 +1,68 @@
+_id: WJWWKcm2JukqKrET
+_key: "!tables!WJWWKcm2JukqKrET"
+name: Insulting adjectives related to general incompetence
+img: icons/svg/d20-grey.svg
+description: A selection of rough synonyms for “incompetent”
+folder: zB3QzmclQ5ki6nW8
+formula: 1d10
+results:
+  - _id: 4SJy6iMDERfCeevQ
+    _key: "!tables.results!WJWWKcm2JukqKrET.4SJy6iMDERfCeevQ"
+    range: [ 1, 1 ]
+    weight: 1
+    type: text
+    description: quiverin’
+  - _id: 49HzwDljJO0iPMG2
+    _key: "!tables.results!WJWWKcm2JukqKrET.49HzwDljJO0iPMG2"
+    range: [ 2, 2 ]
+    weight: 1
+    type: text
+    description: triflin’
+  - _id: KT5ilEwvYyDPsIln
+    _key: "!tables.results!WJWWKcm2JukqKrET.KT5ilEwvYyDPsIln"
+    range: [ 3, 3 ]
+    weight: 1
+    type: text
+    description: worthless
+  - _id: JpdqiMW01328f4Kj
+    _key: "!tables.results!WJWWKcm2JukqKrET.JpdqiMW01328f4Kj"
+    range: [ 4, 4 ]
+    weight: 1
+    type: text
+    description: pitiful
+  - _id: B1CRgEFenSZ0qTmT
+    _key: "!tables.results!WJWWKcm2JukqKrET.B1CRgEFenSZ0qTmT"
+    range: [ 5, 5 ]
+    weight: 1
+    type: text
+    description: measly
+  - _id: 2n1TT5F7BJLqy0lN
+    _key: "!tables.results!WJWWKcm2JukqKrET.2n1TT5F7BJLqy0lN"
+    range: [ 6, 6 ]
+    weight: 1
+    type: text
+    description: piddlin’
+  - _id: UN3f6dm9PivPVLac
+    _key: "!tables.results!WJWWKcm2JukqKrET.UN3f6dm9PivPVLac"
+    range: [ 7, 7 ]
+    weight: 1
+    type: text
+    description: mewlin’
+  - _id: 6DLfin1qWUgEnnWF
+    _key: "!tables.results!WJWWKcm2JukqKrET.6DLfin1qWUgEnnWF"
+    range: [ 8, 8 ]
+    weight: 1
+    type: text
+    description: sojerin’
+  - _id: YBClnZnWmnlFsOok
+    _key: "!tables.results!WJWWKcm2JukqKrET.YBClnZnWmnlFsOok"
+    range: [ 9, 9 ]
+    weight: 1
+    type: text
+    description: hollow
+  - _id: 3cARQ9uK8Iz1vd99
+    _key: "!tables.results!WJWWKcm2JukqKrET.3cARQ9uK8Iz1vd99"
+    range: [ 10, 10 ]
+    weight: 1
+    type: text
+    description: slitherin’
