@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p tsconfig.build.json && vite build && npm run pack",
-    "pack": "node ./scripts/pack.js",
-    "unpack": "node ./scripts/unpack.js",
+    "pack": "node pack.js",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage"
